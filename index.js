@@ -1,15 +1,13 @@
+import express from 'express';
 import { getHomeHeader, getBooksHeader } from './lib/scraper';
 
+const app = express();
 
-async function go() {
+app.get('/scrape', async (req, res, next) => {
+    console.log('scraping...');
     const [home, books] = await Promise.all([getHomeHeader(), getBooksHeader()]);
     console.log(`Home: ${home}, Books: ${books}`);
-//     const homePromise = getHTML('http://books.toscrape.com/index.html');
-//     const booksPromise = getHTML('http://books.toscrape.com/catalogue/category/books_1/index.html');
-//     const [homeHTML, booksHTML] = await Promise.all([homePromise, booksPromise]);
-//     const homeHeader = getHeader(homeHTML);
-//     const booksHeader = getHeader(booksHTML);
-//     console.log(`Home header: '${homeHeader}', Books header: '${booksHeader}'`);
-}
+    res.json({home, books});
+});
 
-go();
+app.listen(3000, (details) => console.log('App running on port 3000'));
