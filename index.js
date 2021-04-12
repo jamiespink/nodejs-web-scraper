@@ -1,7 +1,10 @@
 import express from 'express';
 import { getHomeHeader, getBooksHeader } from './lib/scraper';
+import db from './lib/db';
 
 const app = express();
+
+console.log(db);
 
 app.get('/scrape', async (req, res, next) => {
     console.log('scraping...');
