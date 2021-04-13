@@ -1,5 +1,54 @@
 {
-  "post": [],
-  "user": {},
-  "count": 0
+  "home": [
+    {
+      "date": 1618328761411,
+      "header": "All products"
+    },
+    {
+      "date": 1618328821345,
+      "header": "All products"
+    },
+    {
+      "date": 1618328881488,
+      "header": "All products"
+    },
+    {
+      "date": 1618328941607,
+      "header": "All products"
+    },
+    {
+      "date": 1618329000767,
+      "header": "All products"
+    },
+    {
+      "date": 1618329060881,
+      "header": "All products"
+    }
+  ],
+  "books": [
+    {
+      "date": 1618328761412,
+      "header": "Books"
+    },
+    {
+      "date": 1618328821345,
+      "header": "Books"
+    },
+    {
+      "date": 1618328881488,
+      "header": "Books"
+    },
+    {
+      "date": 1618328941607,
+      "header": "Books"
+    },
+    {
+      "date": 1618329000767,
+      "header": "Books"
+    },
+    {
+      "date": 1618329060881,
+      "header": "Books"
+    }
+  ]
 }
