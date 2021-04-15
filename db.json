@@ -131,6 +131,74 @@
     {
       "date": 1618427761192,
       "header": "All products"
+    },
+    {
+      "date": 1618511941899,
+      "header": "All products"
+    },
+    {
+      "date": 1618512000709,
+      "header": "All products"
+    },
+    {
+      "date": 1618512060850,
+      "header": "All products"
+    },
+    {
+      "date": 1618512121052,
+      "header": "All products"
+    },
+    {
+      "date": 1618513201125,
+      "header": "All products"
+    },
+    {
+      "date": 1618513261244,
+      "header": "All products"
+    },
+    {
+      "date": 1618513321410,
+      "header": "All products"
+    },
+    {
+      "date": 1618513381555,
+      "header": "All products"
+    },
+    {
+      "date": 1618513440737,
+      "header": "All products"
+    },
+    {
+      "date": 1618513501009,
+      "header": "All products"
+    },
+    {
+      "date": 1618513561121,
+      "header": "All products"
+    },
+    {
+      "date": 1618513621255,
+      "header": "All products"
+    },
+    {
+      "date": 1618513681460,
+      "header": "All products"
+    },
+    {
+      "date": 1618514461571,
+      "header": "All products"
+    },
+    {
+      "date": 1618514520768,
+      "header": "All products"
+    },
+    {
+      "date": 1618514581331,
+      "header": "All products"
+    },
+    {
+      "date": 1618514641449,
+      "header": "All products"
     }
   ],
   "books": [
@@ -264,6 +332,74 @@
     },
     {
       "date": 1618427761193,
+      "header": "Books"
+    },
+    {
+      "date": 1618511941900,
+      "header": "Books"
+    },
+    {
+      "date": 1618512000710,
+      "header": "Books"
+    },
+    {
+      "date": 1618512060851,
+      "header": "Books"
+    },
+    {
+      "date": 1618512121053,
+      "header": "Books"
+    },
+    {
+      "date": 1618513201127,
+      "header": "Books"
+    },
+    {
+      "date": 1618513261245,
+      "header": "Books"
+    },
+    {
+      "date": 1618513321410,
+      "header": "Books"
+    },
+    {
+      "date": 1618513381555,
+      "header": "Books"
+    },
+    {
+      "date": 1618513440737,
+      "header": "Books"
+    },
+    {
+      "date": 1618513501010,
+      "header": "Books"
+    },
+    {
+      "date": 1618513561121,
+      "header": "Books"
+    },
+    {
+      "date": 1618513621256,
+      "header": "Books"
+    },
+    {
+      "date": 1618513681461,
+      "header": "Books"
+    },
+    {
+      "date": 1618514461572,
+      "header": "Books"
+    },
+    {
+      "date": 1618514520769,
+      "header": "Books"
+    },
+    {
+      "date": 1618514581333,
+      "header": "Books"
+    },
+    {
+      "date": 1618514641450,
       "header": "Books"
     }
   ]
