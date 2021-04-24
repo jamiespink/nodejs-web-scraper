@@ -9,9 +9,9 @@ pageController(browserInstance);
 
 const app = express();
 
-app.get("/data", async (req, res, next) => {
-    const home = db.value();
-    res.json(home);
+app.get("/matches", async (req, res, next) => {
+    const matches = db.value();
+    res.json(matches);
 });
 
 app.listen(3000, () => console.log("App running on http://localhost:3000"));
